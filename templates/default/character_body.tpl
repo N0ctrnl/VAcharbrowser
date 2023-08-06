@@ -14,11 +14,11 @@
          <ul>
             <li id='tab1' onclick="CB_displayTab('#charbrowser NAV.CB_Tab_Box UL LI', '#tab1', '#charbrowser DIV.PositionInventory DIV.InventoryContents', '#tabbox1');">Gear</li> 
             <li id='tab2' onclick="CB_displayTab('#charbrowser NAV.CB_Tab_Box UL LI', '#tab2', '#charbrowser DIV.PositionInventory DIV.InventoryContents', '#tabbox2');">HP</li> 
-            <li id='tab3' onclick="CB_displayTab('#charbrowser NAV.CB_Tab_Box UL LI', '#tab3', '#charbrowser DIV.PositionInventory DIV.InventoryContents', '#tabbox3');">End.</li> 
+<!--            <li id='tab3' onclick="CB_displayTab('#charbrowser NAV.CB_Tab_Box UL LI', '#tab3', '#charbrowser DIV.PositionInventory DIV.InventoryContents', '#tabbox3');">End.</li> -->
             <li id='tab4' onclick="CB_displayTab('#charbrowser NAV.CB_Tab_Box UL LI', '#tab4', '#charbrowser DIV.PositionInventory DIV.InventoryContents', '#tabbox4');">Mana</li> 
             <li id='tab5' onclick="CB_displayTab('#charbrowser NAV.CB_Tab_Box UL LI', '#tab5', '#charbrowser DIV.PositionInventory DIV.InventoryContents', '#tabbox5');">ATK</li> 
             <li id='tab6' onclick="CB_displayTab('#charbrowser NAV.CB_Tab_Box UL LI', '#tab6', '#charbrowser DIV.PositionInventory DIV.InventoryContents', '#tabbox6');">AC</li> 
-            <li id='tab7' onclick="CB_displayTab('#charbrowser NAV.CB_Tab_Box UL LI', '#tab7', '#charbrowser DIV.PositionInventory DIV.InventoryContents', '#tabbox7');">Mit AC</li> 
+<!--            <li id='tab7' onclick="CB_displayTab('#charbrowser NAV.CB_Tab_Box UL LI', '#tab7', '#charbrowser DIV.PositionInventory DIV.InventoryContents', '#tabbox7');">Mit AC</li> -->
          </ul>
       </nav>      
       <div id='tabbox1' class='InventoryContents'>
@@ -40,8 +40,8 @@
          <!-- STATS ON LEFT -->
          <table class='CB_Table CB_Char_Stats'> 
             <tr> 
-               <td>{L_HP}<br>{L_MANA}<br>{L_ENDR}<br>{L_AC}<br>{L_MIT_AC}<br>{L_ATK}</td> 
-               <td width='100%'>{HP}<br>{MANA}<br>{ENDR}<br>{AC}<br>{MIT_AC}<br>{ATK}</td> 
+               <td>{L_HP}<br>{L_MANA}<br>{L_AC}<br>{L_ATK}</td> 
+               <td width='100%'>{HP}<br>{MANA}<br>{AC}<br>{ATK}</td> 
             </tr> 
             <tr><td class='CB_Char_Stats_Divider' colspan='2'></td></tr> 
             <tr> 
@@ -55,8 +55,8 @@
             </tr> 
             <tr><td class='CB_Char_Stats_Divider' colspan='2'></td></tr> 
             <tr> 
-               <td>{L_POISON}<br>{L_MAGIC}<br>{L_DISEASE}<br>{L_FIRE}<br>{L_COLD}<br>{L_CORRUPT}</td> 
-               <td><font color='#00FF00'>{POISON} <font color='Gold'>+{HPOISON}</font><br>{MAGIC} <font color='Gold'>+{HMAGIC}</font><br>{DISEASE} <font color='Gold'>+{HDISEASE}</font><br>{FIRE} <font color='Gold'>+{HFIRE}</font><br>{COLD} <font color='Gold'>+{HCOLD}</font><br>{CORRUPT} <font color='Gold'>+{HCORRUPT}</font></font></td> 
+               <td>{L_POISON}<br>{L_MAGIC}<br>{L_DISEASE}<br>{L_FIRE}<br>{L_COLD}</td> 
+               <td><font color='#00FF00'>{POISON} <font color='Gold'>+{HPOISON}</font><br>{MAGIC} <font color='Gold'>+{HMAGIC}</font><br>{DISEASE} <font color='Gold'>+{HDISEASE}</font><br>{FIRE} <font color='Gold'>+{HFIRE}</font><br>{COLD} <font color='Gold'>+{HCOLD}</font><br></font></td> 
             </tr> 
             <tr><td class='CB_Char_Stats_Divider' colspan='2'></td></tr> 
             <tr> 
