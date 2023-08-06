@@ -1,0 +1,1 @@
+The VA server - https://vegarlson-server.org/ is a custom server that goes up to LDoN and caps at level 65. Many things may be removed - or maybe not - but this is our copy for tracking and possibly to help others.
