@@ -47,7 +47,7 @@
                   <li><a href='{INDEX_URL}?page=signaturebuilder'>{L_SIGBUILD}</a></li>
                   <li><a href='{INDEX_URL}?page=charmove'>{L_CHARMOVE}</a></li>
                   <li><a href='{INDEX_URL}?page=bazaar'>{L_BAZAAR}</a></li>
-                  <li><a href='{INDEX_URL}?page=barter'>{L_BARTER}</a></li>
+<!--                  <li><a href='{INDEX_URL}?page=barter'>{L_BARTER}</a></li> -->
                   <li><a href='{INDEX_URL}?page=adventure'>{L_LEADERBOARD}</a></li>
                   <li><a href='{INDEX_URL}?page=server'>{L_SERVER}</a></li>
                   <li><a href='{INDEX_URL}?page=settings'>{L_SETTINGS}</a></li>
