@@ -61,7 +61,7 @@ $cb_content_port   =   3306;
 $numToDisplay        = 25 ;//search results per page
 $highlightgm         = 1  ;//highlight GM inventories 0=off 1=on
 $blockbazaar         = 0  ;//disable bazaar 0=on 1=off
-$blockbarter         = 0  ;//disable barter 0=on 1=off
+$blockbarter         = 1  ;//disable barter 0=on 1=off
 $blockadventurestats = 0  ;//disable ldon leaderboards 0=on 1=off
 
      
