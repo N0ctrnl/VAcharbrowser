@@ -6,24 +6,6 @@
       <link rel='stylesheet' href='{ROOT_URL}templates/default/style-item-icons-1.0.css' type='text/css'/>
       <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
       <meta http-equiv='Content-Style-Type' content='text/css'>
-      <!-- For Chrome for Android: -->
-      <link rel="icon" sizes="192x192" href="{ROOT_URL}images/favicons/touch-icon-192x192.png">
-      <!-- For iPhone 6 Plus with @3× display: -->
-      <link rel="apple-touch-icon-precomposed" sizes="180x180" href="{ROOT_URL}favicon.ico">
-      <!-- For iPad with @2× display running iOS ? 7: -->
-      <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{ROOT_URL}favicon.ico">
-      <!-- For iPad with @2× display running iOS ? 6: -->
-      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{ROOT_URL}favicon.ico">
-      <!-- For iPhone with @2× display running iOS ? 7: -->
-      <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{ROOT_URL}favicon.ico">
-      <!-- For iPhone with @2× display running iOS ? 6: -->
-      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{ROOT_URL}favicon.ico">
-      <!-- For the iPad mini and the first- and second-generation iPad (@1× display) on iOS ? 7: -->
-      <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{ROOT_URL}favicon.ico">
-      <!-- For the iPad mini and the first- and second-generation iPad (@1× display) on iOS ? 6: -->
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{ROOT_URL}favicon.ico">
-      <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
-      <link rel="apple-touch-icon-precomposed" href="{ROOT_URL}favicon.ico"><!-- 57×57px -->  
       <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
       <script language='JavaScript' type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js'></script>
       <script language='JavaScript' type='text/javascript' src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>  
